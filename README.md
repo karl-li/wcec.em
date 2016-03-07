@@ -3,7 +3,8 @@ home page for wcec english ministry
 
 # notes
 project goals/call to actions:  
--get people to visit  
+-share the gospel online  
+-get people to visit us in person and on facebook  
 -get people to contact us to learn more about jesus, wcec family, and get involved  
 -use on mainstream mobile-devices
  
