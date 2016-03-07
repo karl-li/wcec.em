@@ -1,9 +1,15 @@
 # wcec.em
 home page for wcec english ministry
+
+====
+#references
+MaterializeCSS at http://materializecss.com/
+
 ====
 # notes
 project goals:  
--mobile friendly  
+-mobile friendly
+-actual website
   
 users:  
 1. tech savvy Young Adults like Pastor Daniel, Wilson, Frankie, Karl, Stephen etc.  
