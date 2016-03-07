@@ -1,10 +1,10 @@
 # wcec.em
-====
 home page for wcec english ministry
+
 # notes
 project goals/call to actions:  
 -get people to visit  
--get people to contact us to learn more about jesus, wcec family, and get involved 
+-get people to contact us to learn more about jesus, wcec family, and get involved  
 -use on mainstream mobile-devices
  
 owners:  
